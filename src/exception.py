@@ -1,5 +1,4 @@
 import sys
-import logger
 from src.logger import logging
 
 
